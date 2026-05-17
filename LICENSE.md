@@ -15,8 +15,8 @@ modification, or distribution without a valid license is prohibited.
 For procurement and evaluation agreements, please contact the author.
 
 PROJECT LINKS:
-College of Scripting Music & Science
-• https://github.com/ChristopherAndrewTopalian
-• https://github.com/ChristopherTopalian
+College of Scripting Music & Science  
+• https://github.com/ChristopherAndrewTopalian  
+• https://github.com/ChristopherTopalian  
 • https://sites.google.com/view/CollegeOfScripting
 =============================
